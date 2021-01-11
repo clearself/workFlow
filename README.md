@@ -1,6 +1,6 @@
-# info-safe
+# workFlow
 
-> A Vue.js project
+> 工作流高完成度案例,实现自定义任务节点，自定义渲染任务节点，自定义任务节点信息配置，汉化等；
 
 ## Build Setup
 
